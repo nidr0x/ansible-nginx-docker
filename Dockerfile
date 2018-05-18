@@ -1,4 +1,4 @@
-FROM williamyeh/ansible:ubuntu16.04
+FROM nidr0x/ubuntu1804-ansible
 
 MAINTAINER Carlos Rodríguez <nidr0x@gmail.com>
 
