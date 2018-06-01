@@ -2,7 +2,7 @@
 
 Just testing Docker within ansible to install nginx webserver.
 
-It uses Docker image/tag from williamyeh/ansible:ubuntu16.04 and installs geerlingguy.nginx role. In future versions, i use my own nginx role and i will add PHP support.
+It uses Docker image/tag from nidr0x/ubuntu1804-ansible and installs geerlingguy.nginx role. In future versions, i use my own nginx role and i will add PHP support.
 
 # Build
 
